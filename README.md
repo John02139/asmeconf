@@ -1,9 +1,9 @@
  
-  #asmeconf: A template for ASME conference papers#
+  # asmeconf: A template for ASME conference papers#
  
   Version 1.22 dated 2020/12/25.
 
-  ####Overview####
+  #### Overview ####
   This class provides a template to format ASME Conference papers according to
   the requirements on ASME's web pages (as posted in 2020).
   
@@ -54,7 +54,7 @@
 
   This work is not a publication of ASME itself. 
   
-  ####Author####
+  #### Author ####
   
   John H. Lienhard V
   
@@ -67,7 +67,7 @@
 
  ---
  
- ####Change log####
+ #### Change log ####
 
  v1.22 (2020/12/25): Enable language-specific fonts for Greek, Vietnamese, and cyrillic-alphabet languages, with examples of abtracts in these languages; revise handling of class options and keys; edit documentation.
 
@@ -106,7 +106,7 @@
  
  ---
  
- ####License####
+ #### License ####
 
  Copyright (c) 2020 John H. Lienhard
 
