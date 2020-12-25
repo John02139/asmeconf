@@ -1,5 +1,5 @@
  
-  # asmeconf: A template for ASME conference papers#
+  # asmeconf: A template for ASME conference papers #
  
   Version 1.22 dated 2020/12/25.
 
