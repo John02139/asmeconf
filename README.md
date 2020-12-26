@@ -53,11 +53,12 @@ The files in this distribution are:
 
 This work is not a publication of ASME itself. 
   
-### Author ###
+#### Author ####
   
-John H. Lienhard V 
-Department of Mechanical Engineering         
-Massachusetts Institute of Technology         
+John H. Lienhard V
+
+Department of Mechanical Engineering
+Massachusetts Institute of Technology
 Cambridge, MA 02139-4307 USA
 
 
