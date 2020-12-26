@@ -1,8 +1,8 @@
  
   # asmeconf: A template for ASME conference papers #
  
-  ### Overview ###
-  This class provides a template to format ASME Conference papers according to
+  ## Overview ##
+  This LaTeX class and BibTeX style provide a template to format ASME Conference papers according to
   the requirements on ASME's web pages (as posted in 2020).
   
   [www.asme.org/publications-submissions/proceedings/formatting-the-paper](https://www.asme.org/publications-submissions/proceedings/formatting-the-paper)
@@ -52,7 +52,7 @@
 
   This work is not a publication of ASME itself. 
   
-  #### Author ####
+  ## Author ##
   
   John H. Lienhard V
   
