@@ -1,5 +1,5 @@
  
-  # asmeconf: A template for ASME conference papers #
+  # asmeconf: A LaTeX template for ASME conference papers #
  
   ## Overview ##
   This LaTeX class and BibTeX style provide a template to format ASME Conference papers according to
