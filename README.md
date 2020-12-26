@@ -1,6 +1,9 @@
  
   # asmeconf: A LaTeX template for ASME conference papers #
  
+  ## CTAN Package ##
+  The files may be downloaded from CTAN: [https://ctan.org/pkg/asmeconf].  This GitHub site is for reporting issues/bugs.
+  
   ## Overview ##
   This LaTeX class and BibTeX style provide a template to format ASME Conference papers according to
   the requirements on ASME's web pages (as posted in 2020).
