@@ -14,7 +14,7 @@
 
 - match ASME's font current specifications and layout
 
-- match ASME's current reference formats, and add support for DOI and URL fields
+- match ASME's current reference formats, with support for DOI and URL fields
 
 - support hyperlinks to figures, tables, equations, references, and external URLs
 
@@ -24,17 +24,19 @@
 
 - support PDF/A (archival) standards if desired
 
-- enable various math and text features from the newtxmath and newtxtext packages
-
 - provide line numbers for editing and review
 
 - support balancing of columns on last page
 
 - support copyright footer for federal employees and contractors
 
+- enable math and text features from the newtxmath, mathalfa, newtxtext, and inconsolata packages
+
 - support bold face, sans serif math in section headings
 
-- support footnotes in section headings
+- support footnotes and citations in section headings
+
+- allow incorporation of languages other than English (e.g., a translation of the abstract)
 
 The .tex and .cls files are commented and should be self-explanatory.
 
