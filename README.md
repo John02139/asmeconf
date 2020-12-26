@@ -1,8 +1,8 @@
  
   # asmeconf: A LaTeX template for ASME conference papers #
  
-  ## CTAN Package ##
-  The files may be downloaded from CTAN: [ctan.org/pkg/asmeconf](https://ctan.org/pkg/asmeconf).  This GitHub site is for reporting issues.
+  ## Downloading the code ##
+   This GitHub site is for reporting issues. The files may be downloaded from CTAN: [ctan.org/pkg/asmeconf](https://ctan.org/pkg/asmeconf). This class is also included in standard distributions such as TeX Live, MikTeX, and Overleaf. 
   
   ## Overview ##
   This LaTeX class and BibTeX style provide a template to format ASME Conference papers according to
@@ -54,5 +54,5 @@ The files in this distribution are:
 
 #### Author ####
   
-John H. Lienhard V, Department of Mechanical Engineering, Massachusetts Institute of Technology, Cambridge, MA 02139-4307 USA
+John H. Lienhard, Department of Mechanical Engineering, MIT, Cambridge, Massachusetts
 
