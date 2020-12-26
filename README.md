@@ -6,7 +6,7 @@
   
   ## Overview ##
   This LaTeX class and BibTeX style provide a template to format ASME Conference papers according to
-  the requirements on ASME's web pages (as posted in 2020). [www.asme.org/publications-submissions/proceedings/formatting-the-paper](https://www.asme.org/publications-submissions/proceedings/formatting-the-paper)
+  the requirements on ASME's web pages (as posted in 2020): [www.asme.org/publications-submissions/proceedings/formatting-the-paper](https://www.asme.org/publications-submissions/proceedings/formatting-the-paper)
   
   The asmeconf class provides access to many features not available in older LaTeX templates for ASME papers. It is designed to approach the following aims:
 
