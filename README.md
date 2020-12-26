@@ -1,9 +1,7 @@
  
   # asmeconf: A template for ASME conference papers #
  
-  Version 1.22 dated 2020/12/25.
-
-  #### Overview ####
+  ### Overview ###
   This class provides a template to format ASME Conference papers according to
   the requirements on ASME's web pages (as posted in 2020).
   
