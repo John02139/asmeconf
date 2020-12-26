@@ -33,9 +33,10 @@
 
 - support copyright footer for federal employees and contractors
 
-  The .tex and .cls files are commented and should be self-explanatory.
 
-  The files in this distribution are:
+The .tex and .cls files are commented and should be self-explanatory.
+
+The files in this distribution are:
 
           README.md              --  this file
           asmeconf.cls           --  the class file
@@ -50,22 +51,19 @@
           *
           author-grid-style.pdf  -- example of title page with "authorgrid" option
 
-  This work is not a publication of ASME itself. 
+This work is not a publication of ASME itself. 
   
-  ## Author ##
+### Author ###
   
-  John H. Lienhard V
-  
-  Department of Mechanical Engineering
-          
-  Massachusetts Institute of Technology
-          
-  Cambridge, MA 02139-4307 USA
+John H. Lienhard V 
+Department of Mechanical Engineering         
+Massachusetts Institute of Technology         
+Cambridge, MA 02139-4307 USA
 
 
  ---
  
- #### Change log ####
+ ## Change log ##
 
  v1.22 (2020/12/25): Enable language-specific fonts for Greek, Vietnamese, and cyrillic-alphabet languages, with examples of abtracts in these languages; revise handling of class options and keys; edit documentation.
 
