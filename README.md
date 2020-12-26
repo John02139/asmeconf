@@ -8,7 +8,7 @@
   This LaTeX class and BibTeX style provide a template to format ASME Conference papers according to
   the requirements on ASME's web pages (as posted in 2020): [www.asme.org/publications-submissions/proceedings/formatting-the-paper](https://www.asme.org/publications-submissions/proceedings/formatting-the-paper)
   
-  The asmeconf class provides access to many features not available in older LaTeX templates for ASME papers. It is designed to approach the following aims:
+  The asmeconf class provides access to many features not available in older LaTeX templates for ASME papers. The class is designed toward the following aims:
 
 - match ASME's font current specifications and layout
 
@@ -20,6 +20,8 @@
 
 - set author names and addresses in either the traditional grid or the more recent inline style
 
+- support PDF/A (archival) standards if desired
+
 - enable various math and text features with newtxmath and newtxtext packages
 
 - support bold face, sans serif math in section headings
@@ -29,8 +31,6 @@
 - provide line numbers for editing and review
 
 - support balancing of columns on last page
-
-- support PDF/A (archival) standards if desired
 
 - support copyright footer for federal employees and contractors
 
