@@ -57,5 +57,5 @@ The files in this distribution are:
 
 #### Author ####
   
-John H. Lienhard, Department of Mechanical Engineering, MIT, Cambridge, Massachusetts
+John H. Lienhard V, Department of Mechanical Engineering, MIT, Cambridge, Massachusetts, USA
 
