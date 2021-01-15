@@ -41,7 +41,9 @@
 
 - support footnotes and citations in section headings
 
-- allow incorporation of languages other than English (e.g., a translation of the abstract)
+- enable passages in other languages, e.g., for a translation of the abstract or a quotation
+
+- support for many scripts: Latin, Arabic, Bengali, Chinese, Cyrillic, Devanagari, Greek, Hangul, Japanese, Tamil
 
 The .tex and .cls files are commented and should be self-explanatory.
 
@@ -56,9 +58,13 @@ The files in this distribution are:
           *
           sample-figure-1.pdf, 
           sample-figure-2a.pdf, 
-          sample-figure-2b.pdf   -- figures for the example
+          sample-figure-2b.pdf   -- figures for the sample paper
           *
-          author-grid-style.pdf  -- example of title page with "authorgrid" option
+          examples/              -- a directory of examples: 
+                                      -- nonlinear ode integration within LaTeX using Lua code
+                                      -- fontspec for abstracts in 25 languages in one paper
+                                      -- grid-style layout of author names/addresses
+                                      -- footers for government employees
 
 #### Author ####
   
