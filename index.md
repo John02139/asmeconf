@@ -1,5 +1,3 @@
-```markdown
-  
   # asmeconf: A LaTeX template for ASME conference papers
  
   ## Reporting Issues
