@@ -1,37 +1,71 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/John02139/asmeconf/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+  # asmeconf: A LaTeX template for ASME conference papers #
+ 
+  ## Reporting Issues ##
+  This GitHub site is for reporting issues (bugs, feature requests) for the asmeconf LaTeX template.
+  
+  For general questions about LaTeX (or Tex Live, Overleaf, etc.), [tex-stackexchange](https://tex.stackexchange.com/) is an excellent source of advice.
+  
+  ## Downloading the code ##
+   The asmeconf files may be downloaded from CTAN: [ctan.org/pkg/asmeconf](https://ctan.org/pkg/asmeconf). 
+   
+   This class is also included in standard distributions such as TeX Live, MikTeX, and Overleaf. 
+  
+  ## Overview ##
+  This LaTeX class and BibTeX style provide a template to format ASME Conference papers according to
+  the current requirements on ASME's web pages: [www.asme.org/publications-submissions/proceedings/formatting-the-paper](https://www.asme.org/publications-submissions/proceedings/formatting-the-paper)
+  
+  The asmeconf class provides access to many features not available in older LaTeX templates for ASME papers. The class is designed toward the following aims:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- match ASME's font current specifications and layout
 
-### Markdown
+- match ASME's current reference formats, with support for DOI and URL fields
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- support hyperlinks to figures, tables, equations, references, and external URLs
 
-```markdown
-Syntax highlighted code block
+- support pdf bookmarks and metadata
 
-# Header 1
-## Header 2
-### Header 3
+- set author names and addresses in either the traditional grid or the more recent inline style
 
-- Bulleted
-- List
+- support PDF/A (archival) standards if desired
 
-1. Numbered
-2. List
+- provide line numbers for editing and review
 
-**Bold** and _Italic_ and `Code` text
+- support balancing of columns on last page
 
-[Link](url) and ![Image](src)
-```
+- support copyright footer for federal employees and contractors
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- enable math and text features from the newtxmath, mathalfa, newtxtext, and inconsolata packages
 
-### Jekyll Themes
+- support bold face, sans serif math in section headings
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/John02139/asmeconf/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- support footnotes and citations in section headings
 
-### Support or Contact
+- enable passages in other languages, e.g., for a translation of the abstract or a quotation
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- support for many scripts: Latin, Arabic, Bengali, Chinese, Cyrillic, Devanagari, Greek, Hangul, Japanese, Tamil
+
+The .tex and .cls files are commented and should be self-explanatory.
+
+The files in this distribution are:
+
+          README.md              --  this file
+          asmeconf.cls           --  the class file
+          asmeconf.bst           --  bibtex style for ASME conference format
+          asmeconf-template.tex  --  a latex template/example for this class
+          asmeconf-template.pdf  --  documentation/sample paper
+          asmeconf-sample.bib    --  a sample bibliography file
+          *
+          sample-figure-1.pdf, 
+          sample-figure-2a.pdf, 
+          sample-figure-2b.pdf   -- figures for the sample paper
+          *
+          examples/              -- a directory of examples: 
+                                      -- nonlinear ode integration within LaTeX using Lua code
+                                      -- fontspec for abstracts in 25 languages in one paper
+                                      -- grid-style layout of author names/addresses
+                                      -- footers for government employees
+
+#### Author ####
+  
+John H. Lienhard V, Department of Mechanical Engineering, MIT, Cambridge, Massachusetts, USA
