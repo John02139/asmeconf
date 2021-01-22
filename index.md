@@ -1,17 +1,17 @@
 
-  # asmeconf: A LaTeX template for ASME conference papers #
+  # asmeconf: A LaTeX template for ASME conference papers
  
-  ## Reporting Issues ##
+  ## Reporting Issues
   This GitHub site is for reporting issues (bugs, feature requests) for the asmeconf LaTeX template.
   
   For general questions about LaTeX (or Tex Live, Overleaf, etc.), [tex-stackexchange](https://tex.stackexchange.com/) is an excellent source of advice.
   
-  ## Downloading the code ##
+  ## Downloading the code
    The asmeconf files may be downloaded from CTAN: [ctan.org/pkg/asmeconf](https://ctan.org/pkg/asmeconf). 
    
    This class is also included in standard distributions such as TeX Live, MikTeX, and Overleaf. 
   
-  ## Overview ##
+  ## Overview
   This LaTeX class and BibTeX style provide a template to format ASME Conference papers according to
   the current requirements on ASME's web pages: [www.asme.org/publications-submissions/proceedings/formatting-the-paper](https://www.asme.org/publications-submissions/proceedings/formatting-the-paper)
   
