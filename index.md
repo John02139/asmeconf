@@ -1,7 +1,7 @@
-# asmeconf: A LaTeX template for ASME conference papers
+# A LaTeX template for ASME conference papers
  
 ## Reporting Issues
-  This GitHub site is for reporting issues (bugs, feature requests) for the asmeconf LaTeX template.
+  The [asmeconf GitHub site](https://github.com/John02139/asmeconf) is for reporting issues (bugs, feature requests) for the asmeconf LaTeX template.
   
   For general questions about LaTeX (or Tex Live, Overleaf, etc.), [tex-stackexchange](https://tex.stackexchange.com/) is an excellent source of advice.
   
